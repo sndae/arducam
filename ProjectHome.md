@@ -1,0 +1,1 @@
+The Arduino reads the input from a 2-axis gyroscope and then calculates the angle for correcting the camera's attitude. This Platform is primarily intended fpr aerial video shots.
